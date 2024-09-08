@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775712419567",
+    "project_id": "birthdayreminder-4c3e7",
+    "storage_bucket": "birthdayreminder-4c3e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775712419567:android:85c1fcc204a7b96eda351a",
+        "android_client_info": {
+          "package_name": "com.example.birthdayreminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Bzvp7ey88zKRyzkOnl-7h53YO4fe0n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
